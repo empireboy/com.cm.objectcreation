@@ -1,10 +1,10 @@
 {
     "name": "com.cm.objectcreation",
-    "displayName": "CM ObjectCreation",
+    "displayName": "CM Object Creation",
     "version": "0.1.0",
     "unity": "2021.2",
     "author": "Casper Meloen",
-    "description": "CM ObjectCreation is a platform independent package for creating objects.",
+    "description": "CM Object Creation is a platform independent package for creating objects.",
     "repository": {
         "type": "git",
         "url": "https://github.com/empireboy/com.cm.objectcreation.git"
